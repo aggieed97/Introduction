@@ -1,5 +1,10 @@
 # Introduction
 
+## January 28, 2019 Update
+Currently doing Men's College Basketball (Men's CBB) Predicitons via Twitter (@danger009mouse) for Top 25 teams as well as local area (to me) teams like Texas, Texas A&M, and Baylor.  Just didn't make sense for me to do a blog post every day.  The predictions rely on data scraped daily.  Would be nice if I can figure out to create a table with predictions that dynamically changes say at 10 AM everyday.  That's something that I will certainly want to look into for the future.
+
+Right now the CBB model is very simple.  In last year's tournament challenge, I used Elo as well as stats from Ken Pomeroy's website, but the current model I'm running is a little different.  Looked into trying to incorporate the Elo model, but I would have to completely re-write the webscrape to a certain extent.  In any case, just like the football predictive models, it's an iterative process.
+
 ## December 30, 2018 Update
 I haven't updated this particular repo in a couple of months, but that doesn't mean I haven't been working on projects.  I've spent the majority of the last few months working on NFL Fantasy Football Projections.  In the last month I've also started working on predicting who will win a football game based on various inputs.  You can read more about that and any other thoughts I have on various subjects at my website: https://salcorpenterprise.com
 
