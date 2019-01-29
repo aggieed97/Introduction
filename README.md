@@ -1,7 +1,7 @@
 # Introduction
 
 ## January 28, 2019 Update
-Currently doing Men's College Basketball (Men's CBB) Predicitons via Twitter (@danger009mouse) for Top 25 teams as well as local area (to me) teams like Texas, Texas A&M, and Baylor.  Just didn't make sense for me to do a blog post every day.  The predictions rely on data scraped daily.  Would be nice if I can figure out to create a table with predictions that dynamically changes say at 10 AM everyday.  That's something that I will certainly want to look into for the future.
+Currently doing daily Men's College Basketball (Men's CBB) Predictions via Twitter (@danger009mouse) for Top 25 teams as well as local area (to me) teams like Texas, Texas A&M, and Baylor.  Just didn't make sense for me to do a blog post every day.  The predictions rely on data scraped daily.  Would be nice if I can figure out to create a table with predictions that dynamically changes say at 10 AM everyday.  That's something that I will certainly want to look into for the future.
 
 Right now the CBB model is very simple.  In last year's tournament challenge, I used Elo as well as stats from Ken Pomeroy's website, but the current model I'm running is a little different.  Looked into trying to incorporate the Elo model, but I would have to completely re-write the webscrape to a certain extent.  In any case, just like the football predictive models, it's an iterative process.
 
