@@ -1,6 +1,6 @@
 # Introduction
 
-## March 24, 2019 Update
+## March 14, 2019 Update
 
 Still been working on my College Basketball Predictions. We're less than a week away from the start of the 2019 NCAA Tournament, so I'm definitely excited about using my models for that.  This year I'm going to have a couple of different brackets with predictions.  The first will be based on the model I used last year with tweaks that I've made in the last year. The second will be based on the model I've been using for the last several weeks reporting out results via Twitter.  They are very different models.  Something I just recently thought of was trying to code out tournament simulations to determine winners.  Will see if I can get it done in less than 5 days with everything else going on.
 
