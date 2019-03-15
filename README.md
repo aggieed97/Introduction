@@ -1,5 +1,11 @@
 # Introduction
 
+## March 24, 2019 Update
+
+Still been working on my College Basketball Predictions. We're less than a week away from the start of the 2019 NCAA Tournament, so I'm definitely excited about using my models for that.  This year I'm going to have a couple of different brackets with predictions.  The first will be based on the model I used last year with tweaks that I've made in the last year. The second will be based on the model I've been using for the last several weeks reporting out results via Twitter.  They are very different models.  Something I just recently thought of was trying to code out tournament simulations to determine winners.  Will see if I can get it done in less than 5 days with everything else going on.
+
+I also recently scraped together Major League Baseball stats with the idea of doing daily predictions of baseball games throughout the 2019 season.  It will start out as a very rudimentary model, but like the basketball model, I'd like to add in more advanced statistics as time allows.
+
 ## January 28, 2019 Update
 Currently doing daily Men's College Basketball (Men's CBB) Predictions via Twitter (@danger009mouse) for Top 25 teams as well as local area (to me) teams like Texas, Texas A&M, and Baylor.  Just didn't make sense for me to do a blog post every day.  The predictions rely on data scraped daily.  Would be nice if I can figure out to create a table with predictions that dynamically changes say at 10 AM everyday.  That's something that I will certainly want to look into for the future.
 
