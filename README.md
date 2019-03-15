@@ -6,6 +6,8 @@ Still been working on my College Basketball Predictions. We're less than a week 
 
 I also recently scraped together Major League Baseball stats with the idea of doing daily predictions of baseball games throughout the 2019 season.  It will start out as a very rudimentary model, but like the basketball model, I'd like to add in more advanced statistics as time allows.
 
+The other day I needed to test some SQL queries on some data I had.  I decided to use Google BigQuery to do that.  I looked up how to upload local files to play around with.  Even though it was something that was super simple, I may just do a blog post about it.  Especially given that my blog has not been updated in a long time.
+
 ## January 28, 2019 Update
 Currently doing daily Men's College Basketball (Men's CBB) Predictions via Twitter (@danger009mouse) for Top 25 teams as well as local area (to me) teams like Texas, Texas A&M, and Baylor.  Just didn't make sense for me to do a blog post every day.  The predictions rely on data scraped daily.  Would be nice if I can figure out to create a table with predictions that dynamically changes say at 10 AM everyday.  That's something that I will certainly want to look into for the future.
 
