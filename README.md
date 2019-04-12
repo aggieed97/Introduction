@@ -1,5 +1,11 @@
 # Introduction
 
+## April 12, 2019 Update
+
+I ended up finishing in 103rd place in the Kaggle NCAA Men's competition this year.  That put me in the Top 12% which was a huge improvement from last year's competition.  I'm rather proud of that accomplishment, though!  As it turns out there weren't all that many upsets this year which may speak to the Selection Committee's job in picking the seeds.  I also used my predictions to put together a bracket for the one and only tournament pool I participate in with a good friend of mine.  He's been doing a pool for 16 years, and I've participated in 15 of them (missed out in 2017 because I forgot to submit in time).  This year was the closest I've come to winning.  The winner was based on a tie-breaker though which was determined by the number of total points scored in the Championship game.  Unfortunately, since the game went into overtime, I lost.  And actually my total points predicted was passed with about 2 minutes left in regulation for the game.
+
+In other news, I started using FiveThirtyEight's MLB dataset to help make daily predictions on MLB games.  I was posting those on Twitter, but I've been a little bit disappointed that the model (as well as most other websites and Vegas-type sites) pretty much stick to between 40-60% win probabilities.  That, to me, is pretty darn boring.
+
 ## March 14, 2019 Update
 
 Still been working on my College Basketball Predictions. We're less than a week away from the start of the 2019 NCAA Tournament, so I'm definitely excited about using my models for that.  This year I'm going to have a couple of different brackets with predictions.  The first will be based on the model I used last year with tweaks that I've made in the last year. The second will be based on the model I've been using for the last several weeks reporting out results via Twitter.  They are very different models.  Something I just recently thought of was trying to code out tournament simulations to determine winners.  Will see if I can get it done in less than 5 days with everything else going on.
