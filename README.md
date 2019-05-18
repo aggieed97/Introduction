@@ -1,5 +1,15 @@
 # Introduction
 
+## May 18, 2019 Update
+
+I ended up nixing the daily MLB predictions for a little while.  I was able to attend my first game of the season a few weeks ago in Arlington to see the Astros pummel the Rangers, though.  That was fun!
+
+While finishing up my taxes shortly after the last update, I procrastinated a bit by working on using FiveThirtyEight's NBA dataset to start making predictions on the NBA Playoffs.  A few weeks after that I used the Sports Reference API to run predictions on the NHL Playoffs.  I've become a regular (yet still amateur) sports prognosticator.
+
+We're about a month away from the start of the 2019 Drum Corps International Summer tour.  Last August I used a very simple ARIMA model to make predictions on Championship Weekend.  You can visit my blog for more info on that from back then.  I took a quick look at the code that I wrote back then...and whew boy I was such a noob!! At the moment I'm thinking through how to make predictions for this summer.  The website I scraped last year only has data going back to 2014 so I might have to figure out how to scrape the DCI website or find another data source.
+
+I also finally cracked how to use Triangular Distribution in Python!!  Only took me a few months.  It's not very intuitive...not like a normal or poisson distribution for sure.  I want to do a blog post on how to use it so hopefully I can get that going soon.  But first, my mid-term for the Supply Chain Design class I'm taking.
+
 ## April 12, 2019 Update
 
 I ended up finishing in 103rd place in the Kaggle NCAA Men's competition this year.  That put me in the Top 12% which was a huge improvement from last year's competition.  I'm rather proud of that accomplishment, though!  As it turns out there weren't all that many upsets this year which may speak to the Selection Committee's job in picking the seeds.  I also used my predictions to put together a bracket for the one and only tournament pool I participate in with a good friend of mine.  He's been doing a pool for 16 years, and I've participated in 15 of them (missed out in 2017 because I forgot to submit in time).  This year was the closest I've come to winning.  The winner was based on a tie-breaker though which was determined by the number of total points scored in the Championship game.  Unfortunately, since the game went into overtime, I lost.  And actually my total points predicted was passed with about 2 minutes left in regulation for the game.
