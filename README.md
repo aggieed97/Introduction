@@ -1,5 +1,11 @@
 # Introduction
 
+## October 18 Update
+
+Whoa!  It's been a long time.  I completed many projects, and I learned quite a bit on how to use GCP's AI Platform to spin up a VM that can run a whole bunch of different sports probability code I created.  I also did some more Drum Corps International predicting throughout the 2019 summer season that was fun.
+
+And the big news:  I finally managed to get a full time job!  Yup!  More I can not say until I update my LinkedIn profile probably after the 1st of the year, but that was definitely the highlight of the last month or so.
+
 ## May 18, 2019 Update
 
 I ended up nixing the daily MLB predictions for a little while.  I was able to attend my first game of the season a few weeks ago in Arlington to see the Astros pummel the Rangers, though.  That was fun!
