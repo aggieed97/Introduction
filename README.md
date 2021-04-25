@@ -1,6 +1,12 @@
 # Introduction
 
-## October 18 Update
+## April 24, 2021 Update
+
+Nearly 18 months later.  Yikes!  Well, last I was here, I mentioned getting a job.  Unfortunately it was not in Data Analytics/Science.  It was going back to doing what I have been doing since 1998.  I needed the health insurance.  Since last August, I've been back to heavily applying to data analyst/scientist jobs, but with COVID having taken out scores of experienced professionals, the interviews have been pretty rare.  I've managed 3 interviews since January 1, 2021, but nothing really concrete has come out of them.  I'm still waiting for one company to open up a Data Science position they said would be open sometime in 2021.  I did an interview with the hiring manager's manager back in November that I thought went pretty well.  So I wait.
+
+In the meantime, they started letting us use Streamlit at work to create Web Apps.  I've created three, so far, in the last couple of months with ideas for more.  Unfortunately can't share any of those publicly so I'm working to translate some of my older material for public consumption.  Anyway, hopefully it's not another 18 months before I update again.  I really need to start sharing projects publicly on here even if only 4 companies out of the several hundred I've applied to in the last three years have asked me for it.
+
+## October 18, 2019 Update
 
 Whoa!  It's been a long time.  I completed many projects, and I learned quite a bit on how to use GCP's AI Platform to spin up a VM that can run a whole bunch of different sports probability code I created.  I also did some more Drum Corps International predicting throughout the 2019 summer season that was fun.
 
